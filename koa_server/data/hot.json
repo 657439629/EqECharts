@@ -1,0 +1,329 @@
+[
+  {
+    "name": "世界",
+    "children": [
+      {
+        "name": "美国",
+        "value": 56202,
+        "children": [
+          {
+            "name": "夏洛特",
+            "value": 10281
+          },
+          {
+            "name": "坦帕",
+            "value": 22331
+          },
+          {
+            "name": "迈阿密",
+            "value": 23590
+          }
+        ]
+      },
+      {
+        "name": "韩国",
+        "value": 42013,
+        "children": [
+          {
+            "name": "首尔",
+            "value": 7896
+          },
+          {
+            "name": "釜山",
+            "value": 10422
+          },
+          {
+            "name": "仁川",
+            "value": 23695
+          }
+        ]
+      },
+      {
+        "name": "巴西",
+        "value": 210282,
+        "children": [
+          {
+            "name": "圣保罗",
+            "value": 87330
+          },
+          {
+            "name": "沙尔瓦多",
+            "value": 65770
+          },
+          {
+            "name": "巴西利亚",
+            "value": 57182
+          }
+        ]
+      },
+      {
+        "name": "意大利",
+        "value": 168203,
+        "children": [
+          {
+            "name": "罗马",
+            "value": 68203
+          },
+          {
+            "name": "米兰",
+            "value": 50000
+          },
+          {
+            "name": "都灵",
+            "value": 50000
+          }
+        ]
+      },
+      {
+        "name": "日本",
+        "value": 40292,
+        "children": [
+          {
+            "name": "东京",
+            "value": 292
+          },
+          {
+            "name": "大阪",
+            "value": 10000
+          },
+          {
+            "name": "广岛",
+            "value": 10000
+          }
+        ]
+      },
+      {
+        "name": "印度",
+        "value": 20313,
+        "children": [
+          {
+            "name": "孟买",
+            "value": 5000
+          },
+		  {
+            "name": "德里",
+            "value": 15313
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "全国",
+    "children": [
+      {
+        "name": "湖北",
+        "value": 201023,
+        "children": [
+          {
+            "name": "黄石",
+            "value": 1023
+          },
+          {
+            "name": "宜昌",
+            "value": 40000
+          },
+          {
+            "name": "武汉",
+            "value": 160000
+          }
+        ]
+      },
+      {
+        "name": "河南",
+        "value": 103735,
+        "children": [
+          {
+            "name": "郑州",
+            "value": 3735
+          },
+          {
+            "name": "开封",
+            "value": 70000
+          },
+          {
+            "name": "洛阳",
+            "value": 30000
+          }
+        ]
+      },
+      {
+        "name": "浙江",
+        "value": 83834,
+        "children": [
+          {
+            "name": "宁波",
+            "value": 3834
+          },
+          {
+            "name": "杭州",
+            "value": 50000
+          },
+          {
+            "name": "温州",
+            "value": 30000
+          }
+        ]
+      },
+      {
+        "name": "广东",
+        "value": 68384,
+        "children": [
+          {
+            "name": "广州",
+            "value": 30000
+          },
+          {
+            "name": "深圳",
+            "value": 8384
+          },
+          {
+            "name": "珠海",
+            "value": 30000
+          }
+        ]
+      },
+      {
+        "name": "黑龙江",
+        "value": 45038,
+        "children": [
+          {
+            "name": "哈尔滨",
+            "value": 10000
+          },
+          {
+            "name": "齐齐哈尔",
+            "value": 5038
+          },
+          {
+            "name": "大庆",
+            "value": 30000
+          }
+        ]
+      },
+      {
+        "name": "山东",
+        "value": 90382,
+        "children": [
+          {
+            "name": "济南",
+            "value": 382
+          },
+          {
+            "name": "青岛",
+            "value": 60000
+          },
+          {
+            "name": "烟台",
+            "value": 30000
+          }
+        ]
+      },
+      {
+        "name": "北京",
+        "value": 10201,
+        "children": [
+          {
+            "name": "东城区",
+            "value": 10000
+          },
+          {
+            "name": "西城区",
+            "value": 201
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "部分地区",
+    "children": [
+      {
+        "name": "a",
+        "value": 430291,
+        "children": [
+          {
+            "name": "b",
+            "value": 30291
+          },
+          {
+            "name": "c",
+            "value": 100000
+          },
+          {
+            "name": "d",
+            "value": 300000
+          }
+        ]
+      },
+      {
+        "name": "e",
+        "value": 80284,
+        "children": [
+          {
+            "name": "f",
+            "value": 60284
+          },
+          {
+            "name": "g",
+            "value": 10000
+          },
+          {
+            "name": "h",
+            "value": 10000
+          }
+        ]
+      },
+      {
+        "name": "i",
+        "value": 40294,
+        "children": [
+          {
+            "name": "j",
+            "value": 10294
+          },
+          {
+            "name": "k",
+            "value": 5000
+          },
+          {
+            "name": "l",
+            "value": 25000
+          }
+        ]
+      },
+      {
+        "name": "n",
+        "value": 50939,
+        "children": [
+          {
+            "name": "m",
+            "value": 10939
+          },
+          {
+            "name": "o",
+            "value": 10000
+          },
+          {
+            "name": "p",
+            "value": 30000
+          }
+        ]
+      },
+      {
+        "name": "q",
+        "value": 10921,
+        "children": [
+          {
+            "name": "r",
+            "value": 921
+          },
+          {
+            "name": "s",
+            "value": 10000
+          }
+        ]
+      }
+    ]
+  }
+]
